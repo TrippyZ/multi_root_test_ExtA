@@ -1,0 +1,1 @@
+This is a submodule in git and contains extension A
